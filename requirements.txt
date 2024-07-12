@@ -10,3 +10,5 @@ xlsxwriter
 sqlalchemy
 beautifulsoup4
 streamlit
+mysql-connector-python
+pymysql
